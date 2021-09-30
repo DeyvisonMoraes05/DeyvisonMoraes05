@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Deyvison Moraes 
 - 🔭 Hoje eu estou em busca da minha primeira oportunidade em desenvolvimento 
 - 🌱 Estudando: HTML5; CSS3; JavaScript; Java; PHP; Python 
-- 😄 Pronouns: ele/dele
 
 <div>
     <a href="https://github.com/DeyvisonMoraes05">
